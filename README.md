@@ -115,6 +115,10 @@ API listening on 5174
 ```
 
 ---
+## Demo
+<img width="1512" height="828" alt="Screenshot 2026-01-18 at 18 59 40" src="https://github.com/user-attachments/assets/13fcc8b3-394a-40d1-88ca-62af9ef80ae3" />
+<img width="1512" height="828" alt="Screenshot 2026-01-18 at 18 59 49" src="https://github.com/user-attachments/assets/803c3e47-1c67-456c-ac50-ffd9eb0a5623" />
+
 
 ##  API Endpoints
 
